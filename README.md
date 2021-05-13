@@ -37,10 +37,10 @@ The top 10 most frequent words for Ethereum were:
 
 ## Word Clouds
 
-![](/Resources/btc_wc.png)  
-![](/Resources/eth_wc.png)
+![Bitcoin Word Cloud](/Resources/btc_wc.png)  
+![Ethereum Word Cloud](/Resources/eth_wc.png)
 
 # Named Entity Recognition
  
-![](/Resources/btc_ner.png)  
-![](/Resources/eth_ner.png)
+![Snippet of Bitcoin NER render](/Resources/btc_ner.png)  
+![Snippet of Ethereum NER render](/Resources/eth_ner.png)
